@@ -1,0 +1,9 @@
+BuddyFinder
+
+BuddyFinder is a real-time, heads-up, augmented reality system which displays the relative position of other systems and waypoints.
+
+BuddyFinder can be integrated into goggles, helmet visors, hats, etc. and is intended for use in remote outdoor activities.
+
+The range of BuddyFinder is approximately 2km in ideal conditions.
+
+BuddyFinder can prevent seperation of groups, outdoorsmen getting lost, and aide in course avalanche searche.s
